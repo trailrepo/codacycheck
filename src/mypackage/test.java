@@ -5,7 +5,7 @@ public static void main(String[] args) {
 	int a=10;
 	boolean s=true;
 	while (s) {
-		
+		System.out.println();
 	}
 	if(true)
 	{
